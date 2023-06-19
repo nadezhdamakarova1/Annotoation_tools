@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Functions to process annotation files
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Current version includes only one script for gff to gtf converattion 
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+To be published soon
